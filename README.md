@@ -6,3 +6,9 @@
 Render Django Form Manually - Make Custom Form with Form Validations | Code Band
 https://www.youtube.com/watch?v=PMRalI2M3SY
 https://github.com/akjasim/custom_form
+
+
+
+---
+Hospital Management System || 2020 || FREE source code || lazycoder
+https://www.youtube.com/watch?v=_HRqU3oP7Y8
